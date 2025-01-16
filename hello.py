@@ -1,5 +1,8 @@
 import math
-#TODO Affichez l'aire d'un cercle avec le rayon indiqué
+from math import pi
+def aire(rayon):
+    return pi*rayon**2 
 rayon = 4
-
-#TODO Ajoutez une ligne qui affichera votre nom et prénom à la fin
+aire=pi*rayon**2
+print (aire)
+#Rym zidi
